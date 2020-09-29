@@ -2,4 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Learning to use github in September 2020.
+Good I've got this far. Now I should make a table 
+A | B
+--|--
+C | D
